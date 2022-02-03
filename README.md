@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jarne1998
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, HTML, CSS, javaScript, SQL
+- 🌱 I’m currently learning C#, ASP.NET, Ionic, React
 - 💞️ I’m looking to collaborate on future project
 - 📫 How to reach me ...
 
